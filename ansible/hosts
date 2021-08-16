@@ -1,0 +1,5 @@
+[sre_challenge:vars]
+ansible_ssh_private_key_file=./path/key.pem
+ansible_user=ubuntu
+[sre_challenge]
+x.x.x.x
